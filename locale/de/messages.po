@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2022-03-03 16:19+0530\n"
-"PO-Revision-Date: 2025-02-09 01:03+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2025-09-30 14:01+0000\n"
+"Last-Translator: Andreas Kleinert <Andy.Kleinert@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/open-event/"
 "open-event-next/de/>\n"
 "Language: de\n"
@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: src/components/templates/FooterFields.tsx:16
 msgid "Attendee App"
-msgstr ""
+msgstr "Teilnehmer-App"
 
 #: src/components/templates/FooterFields.tsx:6
 msgid "Blog"
@@ -26,7 +26,7 @@ msgstr "Ereignisse durchsuchen"
 
 #: src/components/templates/FooterFields.tsx:20
 msgid "Connect With Us"
-msgstr ""
+msgstr "Treten Sie mit uns in Kontakt"
 
 #: src/components/layout/footer.tsx:12
 msgid "Contact"
@@ -35,19 +35,19 @@ msgstr "Kontakt"
 #: pages/index.tsx:42
 #: src/components/layout/navbar.tsx:14
 msgid "Create Event"
-msgstr ""
+msgstr "Ereignis erstellen"
 
 #: src/components/templates/FooterFields.tsx:11
 msgid "Event Management Software"
-msgstr ""
+msgstr "Software für Veranstaltungsmanagement"
 
 #: src/components/templates/FooterFields.tsx:21
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: src/components/templates/FooterFields.tsx:14
 msgid "Find Events"
-msgstr ""
+msgstr "Ereignisse suchen"
 
 #: src/components/templates/group/GroupCard.tsx:46
 msgid "Follow Group"
@@ -55,88 +55,88 @@ msgstr "Gruppe folgen"
 
 #: src/components/templates/FooterFields.tsx:23
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: src/components/templates/FooterFields.tsx:26
 msgid "Gitter"
-msgstr ""
+msgstr "Gitter"
 
 #: src/components/templates/FooterFields.tsx:25
 msgid "Google Groups"
-msgstr ""
+msgstr "Google Groups"
 
 #: src/components/templates/FooterFields.tsx:6
 msgid "How it works"
-msgstr ""
+msgstr "So funktioniert es"
 
 #: src/components/layout/navbar.tsx:14
 msgid "Login"
-msgstr ""
+msgstr "Anmelden"
 
 #: src/components/layout/footer.tsx:9
 msgid "Maintained by Areeb Jamal & Team"
-msgstr ""
+msgstr "Verwaltet von Areeb Jamal & Team"
 
 #: src/components/templates/event/EventCard.tsx:46
 msgid "Online Event"
-msgstr ""
+msgstr "Online-Veranstaltung"
 
 #: src/components/templates/FooterFields.tsx:9
 msgid "Online Registration"
-msgstr ""
+msgstr "Online-Registrierung"
 
 #: src/components/templates/FooterFields.tsx:17
 msgid "Organizer App"
-msgstr ""
+msgstr "Veranstaltungs-App"
 
 #: src/components/templates/FooterFields.tsx:8
 msgid "Plan Events"
-msgstr ""
+msgstr "Veranstaltungen planen"
 
 #: src/components/layout/navbar.tsx:14
 #: src/components/templates/FooterFields.tsx:6
 msgid "Pricing"
-msgstr ""
+msgstr "Preise"
 
 #: src/components/layout/footer.tsx:14
 msgid "Privacy"
-msgstr ""
+msgstr "Datenschutz"
 
 #: src/components/layout/footer.tsx:13
 msgid "Refund Policy"
-msgstr ""
+msgstr "Rückgaberecht"
 
 #: src/components/templates/FooterFields.tsx:10
 msgid "Sell Event Tickets"
-msgstr ""
+msgstr "Veranstaltungstickets verkaufen"
 
 #: src/components/templates/FooterFields.tsx:27
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #: src/components/layout/footer.tsx:11
 msgid "Terms"
-msgstr ""
+msgstr "Nutzungsbedingungen"
 
 #: pages/index.tsx:37
 msgid "The open source event solution for virtual and in-person events."
-msgstr ""
+msgstr "Die quelloffene Lösung für virtuelle und Präsenz-Veranstaltungen."
 
 #: src/components/templates/FooterFields.tsx:22
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: src/components/templates/FooterFields.tsx:6
 msgid "Use eventyay"
-msgstr ""
+msgstr "Plattform „eventyay“ verwenden"
 
 #: src/components/templates/FooterFields.tsx:28
 msgid "Weblate"
-msgstr ""
+msgstr "Weblate"
 
 #: src/components/templates/FooterFields.tsx:24
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: src/components/layout/footer.tsx:59
 #: src/components/templates/FooterFields.tsx:62
@@ -145,4 +145,4 @@ msgstr ""
 
 #: src/components/layout/footer.tsx:10
 msgid "© {0} eventyay"
-msgstr ""
+msgstr "© {0} eventyay"
